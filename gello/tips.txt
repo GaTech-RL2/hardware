@@ -1,0 +1,6 @@
+3D printing tip:
+Since we need to screw parts up, try using a smaller nozzle for printing, otherwise screw holes might turn out to be small and will have to drill holes bigger later. For screws of size 1.7mm, using a 0.4mm nozzle was too big, probably should have used 0.2mm nozzle.
+
+There are two types of motors: the 288-T motors are used for arm. The 077-T motor is used for the gripper.
+
+Screwdriver head: PH000
