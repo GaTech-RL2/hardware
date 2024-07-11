@@ -8,9 +8,11 @@
 
 
 ## BOM:
-- M3 screws (assorted)
+- 150mm MGN9 Linear Rail Guide (1x) + MGN9C Cartridge(2x): [Rail+Cartridge](https://www.amazon.com/dp/B075CMRGY6?ref=ppx_yo2ov_dt_b_product_details&th=1), [Cartridge](https://www.amazon.com/dp/B085NSZD14?ref=ppx_yo2ov_dt_b_product_details&th=1)
+- M3 screws: 40mm (2x), 30mm (4x), 10mm (8x), 16mm (2x)
 - M3 flathead (countersunk) screws: 10mm (2x)
+- M3 nuts
 - M3 0.5mm lock nuts (4x)
 - M3 ballbearing (6x): [Amazon link](https://www.amazon.com/dp/B075CMRGY6?ref=ppx_yo2ov_dt_b_product_details&th=1)
-- M2 screws: ?mm (2x)
+- M2 screws: 12mm (2x), 20mm (6x)
 - M2.5 screws: ?mm (4x)
