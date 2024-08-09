@@ -1,3 +1,7 @@
+This is a lower-cost adaptation of the Viper Gripper (Mobile ALOHA) that features only one linear guide rail instead of 2. It also does not require cutting acrylic board for the backplate.
+
+![Gripper]("viper_gripper.jpg")
+
 ## 3D Printing:
 - rotor (x1)
 - rotor arm (x2)
