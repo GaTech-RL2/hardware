@@ -20,3 +20,5 @@ This is a lower-cost adaptation of the Viper Gripper (Mobile ALOHA) that feature
 - M3 ballbearing (6x): [Amazon link](https://www.amazon.com/dp/B075CMRGY6?ref=ppx_yo2ov_dt_b_product_details&th=1)
 - M2 screws: 12mm (2x), 20mm (6x)
 - M2.5 screws (4x): 16mm (4x)
+
+Total cost: ~$100
