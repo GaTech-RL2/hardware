@@ -1,0 +1,21 @@
+Find port id of U2D2 Dynamixel device on Linux:
+$ ls /dev/serial/by-id
+
+Add the following key,value to the PORT_CONFIG_MAP dict in gello_software/gello/agents/gello_agent.py:
+
+"/dev/serial/by-id/<port_name>": DynamixelRobotConfig(
+
+)
+
+
+=====
+Calculating offset
+
+--start-joints 0 0 0 -1.57 0 1.57 0
+
+=====
+
+=====
+deoxys_control/deoxys$ pip install -e .
+deoxys_control/deoxys$ pip install -r requirements.txt
+=====

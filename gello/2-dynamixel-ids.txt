@@ -1,0 +1,32 @@
+Download Dynamixel Wizard for Linux from here: https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/
+
+Follow instructions under 2.2.
+
+1. Download the package file.
+
+2. Enter the following command to change the permission.
+ $ sudo chmod 775 DynamixelWizard2Setup_x64
+
+3. Run the install program.
+ $ ./DynamixelWizard2Setup_x64
+
+4. Click on Next button to proceed installation.
+
+5. After completing the installation, please add account id to dialout group in order to access the USB port. Replace the in the command below to your actual user id.
+ $ sudo usermod -aG dialout <your_account_id>
+
+6. Reboot in order the changes to be effective.
+ $ reboot
+
+===========================
+Setting IDs for the dynamixels.
+
+Do the following for each motor separately (i.e. isolated from the chain).
+
+Connect U2D2 board to power board, one dynamixel motor to the power board, and power board to power supply. Switch on the power button on the power board.
+Launch Dynamixel Wizard.
+Goto Tools->ID Inspection
+In the dialog box make sure ttyUSB0 and 57600 bps are selected. Click Scan. As scanning continues, a green light should flash on the U2D2 controller.
+After scanning finishes, the dialog box should show one dynamixel, with ID 1. Click Next.
+Set the ID of the dynamixel to the appropriate value, which starts with 1 for the base, upto 7 for the eef and 8 for the gripper.
+Click Apply.
